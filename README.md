@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Pal</h1>
 <h3 align="center">Passionate to build Saas Web apps</h3>
 
-- 🔭 I’m currently working on **Odiware company**
+- 🔭 I’m currently working in **Odiware company**
 
 - 🌱 I’m currently learning **Django, nextjs, postgreSQL**
 
