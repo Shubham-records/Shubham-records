@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, nextjs, postgreSQL**
 
-- 📫 How to reach me **subhampal342@gmail.com or in insta: - Shubham-records**
+- 📫 How to reach me **subhampal342@gmail.com or in insta: - Shubham._org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
